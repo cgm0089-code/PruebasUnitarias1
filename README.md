@@ -1,4 +1,5 @@
-<img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/dcd9f416-f6a8-4146-bc2e-a613c0f689ea" />
+<img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/dd9c42b9-fefa-46c4-90d1-7a77d6405f27" />
+
 ```artifact
 id: readme
 name: Readme
